@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Who is this guy?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a Software Engineer, a Scandinavian and a Liberal.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I use my blog to occasionally post about my thoughts on technology, politics and and business.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The thoughts are my own but not guaranteed to be unique. Feel free to contact me on twitter if you have any comments.

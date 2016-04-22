@@ -1,8 +1,11 @@
-- slug: design
-  name: Design
+- slug: technology 
+  name: Technology
 
-- slug: tools
-  name: Tools
+- slug: business
+  name: Business
 
-- slug: productivity
-  name: Productivity
+- slug: politics 
+  name: Politics 
+
+- slug: book 
+  name: Books 
