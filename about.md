@@ -7,6 +7,6 @@ permalink: /about/
 
 I am a Software Engineer, a Scandinavian and a Liberal.
 
-I use my blog to occasionally post about my thoughts on technology, politics and and business.
+I use my blog to occasionally post about my thoughts on technology, politics and business.
 
 The thoughts are my own but not guaranteed to be unique. Feel free to contact me on twitter if you have any comments.
